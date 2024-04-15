@@ -1,0 +1,7 @@
+#192.168.56.109	#server1 school
+
+[server1]
+192.168.56.122	#server1 home
+
+#[workstation]
+#192.168.56.121 #workstation home
